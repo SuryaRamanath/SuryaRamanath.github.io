@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Surya and I enjoy exploring the various fields on CS. I am interested
-              in Cybersecurty and Artificial Intelligence. Currently working on AI based antivirus system.
+              in Cybersecurity and Artificial Intelligence. I am Currently working on AI based antivirus system.
             </p>
 
             <p>
